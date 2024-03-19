@@ -11,6 +11,8 @@ Using python and NLTK to sentiment comments. analysis the performance of pre-pro
 - combined features together
 ### High-level preprocessing
 - initial preprocessing
+- Repeat Replacer
+  convert words like niiiiiice to nice.
 - Stop words
 - Lemmatication
 - Stemming
