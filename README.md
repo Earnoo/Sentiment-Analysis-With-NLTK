@@ -12,7 +12,7 @@ Using python and NLTK to sentiment comments. analysis the performance of pre-pro
 ### High-level preprocessing
 - initial preprocessing
 - Repeat Replacer
-  convert words like niiiiiice to nice.
+  (convert words like niiiiiice to nice.)
 - Stop words
 - Lemmatication
 - Stemming
