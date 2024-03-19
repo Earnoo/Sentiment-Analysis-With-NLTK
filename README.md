@@ -15,6 +15,7 @@ Using python and NLTK to sentiment comments. analysis the performance of pre-pro
 - Lemmatication
 - Stemming
 - Combined features together
+![example image](https://github.com/Earnoo/Sentiment-Analysis-With-NLTK/blob/main/Preprocessing%20roadmap.JPG)
 ## vectorizitaion methods
 - BoW
 - word2vec
